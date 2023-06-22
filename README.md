@@ -14,4 +14,6 @@ This project employs several cutting-edge technologies to analyze the dataset an
 
 **TensorFlow Feature Columns:** TensorFlow Feature Columns provide a convenient and efficient way to preprocess and represent the features of the dataset. By utilizing this feature, the project ensures that the data is appropriately formatted and ready for training the neural network models.
 
-The combination of TensorFlow, neural networks, and TensorFlow Feature Columns enables the creation of sophisticated models that can effectively analyze the Cardiovascular-risk dataset and provide valuable insights into the risk factors associated with CHD.
+**Scikit-learn:** Scikit-learn is a popular machine learning library that provides a wide range of tools and algorithms for data analysis and modeling. It complements the TensorFlow framework by offering additional capabilities for data preprocessing, feature selection, and evaluation of machine learning models.
+
+By combining the power of TensorFlow, neural networks, TensorFlow Feature Columns, and Scikit-learn, this project enables the creation of sophisticated models that can effectively analyze the Cardiovascular-risk dataset and provide valuable insights into the risk factors associated with CHD.
